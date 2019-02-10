@@ -1,0 +1,3 @@
+[submodule "retinoskin-model"]
+	path = retinoskin-model
+	url = https://github.com/sarru1291/retinoskin-model
