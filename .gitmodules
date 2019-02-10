@@ -4,3 +4,6 @@
 [submodule "retinoskin-frontend"]
 	path = retinoskin-frontend
 	url = https://github.com/sarru1291/retinoskin-frontend
+[submodule "retinoskin-backend"]
+	path = retinoskin-backend
+	url = https://github.com/sarru1291/retinoskin-backend.git
