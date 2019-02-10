@@ -1,8 +1,10 @@
 # retinoskin
 ## A Web App for Skin Cancer &amp; Diabetic Retinopathy
 
-CNN Model for Image classification.
-Kaggle Dataset for Diabetic Retinopathy.
-ISIC Dataset for Skin Cancer.
-Data processing through REST APIs.
-
+This app can be used for testing the status of the skin cancer and diabetic retinopathy by giving image as a input.
+> for diabetic retinopathy retinal examination must be done before.
+```
+For frontend documentation and source code go to [](https://github.com/sarru1291/retinoskin-frontend)
+For frontend documentation and source code go to [](https://github.com/sarru1291/retinoskin-frontend)
+For frontend documentation and source code go to [](https://github.com/sarru1291/retinoskin-frontend)
+```
