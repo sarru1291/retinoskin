@@ -1,5 +1,5 @@
 # retinoskin
-A Web App for Skin Cancer &amp; Diabetic Retinopathy
+## A Web App for Skin Cancer &amp; Diabetic Retinopathy
 
 CNN Model for Image classification.
 Kaggle Dataset for Diabetic Retinopathy.
