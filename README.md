@@ -1,5 +1,7 @@
-# retinoskin
+# Retinoskin
 ## A Web App for Skin Cancer &amp; Diabetic Retinopathy
+
+<img src="Retinoskin.png"></img>
 
 This app can be used for testing the status of the skin cancer and diabetic retinopathy by giving image as a input.<br>
 Further report generated can be mailed to the doctors nearby yourself.
